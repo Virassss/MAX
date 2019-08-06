@@ -1,0 +1,6 @@
+Previously,for high security areas or in locker rooms for banks, traditional lock systems, passwords, etc., were employed.
+However, these systems were found to be not perfectly secure. The purpose of this project is to provide high security for such high end
+security applications and to design a smart door access system using finger print module. The use of this device is to provide access to 
+only authorized persons. Both hardware and software technology are used to design it. An emergency beep sound is provided to protect the
+system by giving alarm if any unauthorized person intrudes into the system. 
+An indicator indicates for any emergency condition. Motors are used for locking and unlocking the door.
